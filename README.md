@@ -8,7 +8,6 @@ Welcome to my portfolio repository! This repository powers my portfolio website,
 ## Features
 
 - **Data Analytics Showcase**: Dive deep into my analytics projects, understand my methodologies and the tools I use.
-- **Project Management**: A comprehensive view of the projects I've led, highlighting successful implementations and cross-department collaborations.
 - **Regulatory Compliance**: An overview of my experience ensuring global regulatory compliance with detailed documentation.
 
 ## Getting Started
