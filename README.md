@@ -1,5 +1,6 @@
 # Denzil Greenwood's Portfolio
 
+** curently under construction**
 Welcome to my portfolio repository! This repository powers my portfolio website, showcasing my data analytics projects, skills in project management, and regulatory compliance expertise.
 
 ![Portfolio Preview](path-to-screenshot-image-if-you-have-one.png) 
