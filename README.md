@@ -28,6 +28,23 @@ I am an analytically driven and results-oriented Data Analyst with a solid found
 - **Effective Communication:** Strong ability to convey ideas clearly and persuasively.
 - **Team Leadership:** Skilled at leading and motivating teams to exceed their objectives.
 
+## Projects
+
+### Project 1: Home Loan Denial Analysis
+- **Description:** Developed a comprehensive analysis of home loan denials using Python and various data analysis techniques. Implemented a data pipeline for cleaning and processing the data, performed exploratory data analysis, and built predictive models to identify key factors leading to loan denials.
+- **Technologies:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
+- **GitHub Repository:** [Home Loan Denial Analysis](https://github.com/yourusername/home-loan-denial-analysis)
+
+### Project 2: Chatbot Development with IBM Watson
+- **Description:** Created a chatbot using IBM Watson to assist users with common queries. Designed the conversation flow, integrated with a backend system for data retrieval, and deployed the chatbot on a website.
+- **Technologies:** IBM Watson, Python, Flask, HTML/CSS
+- **GitHub Repository:** [Chatbot Development](https://github.com/yourusername/chatbot-development)
+
+### Project 3: AI-Based Image Generation
+- **Description:** Built an AI-based application to generate images and create compelling stories around them. Utilized GANs for image generation and NLP models for story creation.
+- **Technologies:** Python, TensorFlow, GANs, NLP
+- **GitHub Repository:** [AI-Based Image Generation](https://github.com/yourusername/ai-image-generation)
+
 ## Professional Experience
 - **Volunteer Project Manager (2014 - Present):** Managed home renovations and projects for a General Contractor, navigating complex logistical and financial constraints.
 - **Implementation Support Supervisor at the Chickasaw Nation (Jul 2013 - Mar 2014):** Drove successful adoption of enterprise projects and leveraged data analytics to measure project performance.
