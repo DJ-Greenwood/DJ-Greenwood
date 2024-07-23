@@ -30,19 +30,19 @@ I am an analytically driven and results-oriented Data Analyst with a solid found
 
 ## Projects
 
-## work inprogress
 ### Project 1: Home Loan Denial Analysis
 - **Description:** Developed a comprehensive analysis of home loan denials using Python and various data analysis techniques. Implemented a data pipeline for cleaning and processing the data, performed exploratory data analysis, and built predictive models to identify key factors leading to loan denials.
 - **Technologies:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
 - **GitHub Repository:** [Home Loan Denial Analysis](https://github.com/DJ-Greenwood/home-loan-denial-analysis)
 
-## work inprogress
-### Project 2: Chatbot Development with IBM Watson
-- **Description:** Created a chatbot using IBM Watson to assist users with common queries. Designed the conversation flow, integrated with a backend system for data retrieval, and deployed the chatbot on a website.
-- **Technologies:** IBM Watson, Python, Flask, HTML/CSS
-- **GitHub Repository:** [Chatbot Development](https://github.com/DJ-Greenwood/chatbot-development)
+### Work In Progress
+### Project 2: Practical AI & Machine Learning Projects and Datasets
+- **Description:** Developing a language model (LLM) to enhance natural language understanding and generation capabilities. The project involves training the model on diverse datasets, fine-tuning for specific tasks, and deploying it for real-time interactions. Additionally, integrated backend systems for efficient data retrieval and seamless user interactions.
+Project orign: Vincent Granville, Ph.D. | [www.MLTechniques.com](https://www.MLTechniques.com) | Version 4.0, March 2024, Practical AI & Machine Learning Projects and Datasets
+Technologies: Transformers, Python, Flask, HTML/CSS
+- **GitHub Repository:** [LLM Development](http://github.com/DJ-Greenwood/LLM)
 
-## work inprogress
+## Work inprogress
 ### Project 3: AI-Based Image Generation
 - **Description:** Built an AI-based application to generate images and create compelling stories around them. Utilized GANs for image generation and NLP models for story creation.
 - **Technologies:** Python, TensorFlow, GANs, NLP
