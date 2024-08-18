@@ -7,7 +7,8 @@
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/denzil-james-greenwood/)
 
 ## Professional Summary
-I am an analytically driven and results-oriented Data Analyst with a solid foundation in project management and compliance, now transitioning into Artificial Intelligence (AI) and Data Science. I am adept in a broad array of data analysis techniques and tools, and my recent certifications in AI, ML, and data science complement my commitment to adding value through data-driven decision-making. I have a proven track record in driving process improvement and leveraging data insights to influence strategic decisions.
+
+Analytically driven and results-oriented Data Analyst with a comprehensive background in data analytics, project management, compliance, and a focus on Artificial Intelligence (AI) and Data Science. Highly proficient in a broad array of data analysis techniques and tools, with recent certifications in machine learning, AI, and data science. Demonstrated success in driving process improvements, optimizing operational efficiency, and influencing strategic business decisions through data-driven insights. Adept at using advanced data analytics to solve complex problems, ensure regulatory compliance, and support strategic planning and execution.
 
 ## Skills
 
@@ -48,25 +49,44 @@ Technologies: Transformers, Python, Flask, HTML/CSS
 - **Technologies:** Python, TensorFlow, GANs, NLP
 - **GitHub Repository:** [AI-Based Image Generation](https://github.com/DJ-Greenwood/ai-image-generation)
 
-## Professional Experience
-- **Volunteer Project Manager (2014 - Present):** Managed home renovations and projects for a General Contractor, navigating complex logistical and financial constraints.
-- **Implementation Support Supervisor at the Chickasaw Nation (Jul 2013 - Mar 2014):** Drove successful adoption of enterprise projects and leveraged data analytics to measure project performance.
-- **Compliance Specialist at the Chickasaw Nation (Jun 2007 - Jul 2013):** Conducted detailed audits using data analysis techniques, leading to improved business compliance and processes.
+## Selected Professional Experience
+
+### Volunteer Project Manager (2014 - Present)
+- Led and executed multiple home renovation projects, improving quality of life for occupants and managing resources effectively to meet project deadlines and budgets.
+- Managed end-to-end project delivery for a General Contractor, successfully overcoming complex logistical and financial challenges to deliver high-quality results.
+
+### Implementation Support Supervisor, Chickasaw Nation (Jul 2013 - Mar 2014)
+- Spearheaded the successful adoption and implementation of enterprise projects, fostering interdepartmental collaboration and leveraging data analytics to track project progress and performance.
+- Utilized data-driven insights to support decision-making processes, enabling the organization to achieve its strategic objectives and improve operational efficiency.
+
+### Compliance Specialist, Chickasaw Nation (Jun 2007 - Jul 2013)
+- Conducted comprehensive audits using advanced data analysis techniques to ensure compliance with regulatory standards and improve business processes.
+- Developed and presented detailed reports and actionable recommendations to senior management, resulting in enhanced compliance and operational effectiveness.
 
 ## Education
-- **Pursuing Master of Science in Data Science:** University of Colorado at Boulder (Online)
-- **Computer Science (Incomplete):** Murray State College
+
+### Master of Science in Data Science (In Progress)
+- University of Colorado at Boulder (Online)
+- Relevant Coursework: Advanced Statistical Methods, Machine Learning Algorithms, Big Data Analytics, Predictive Analytics
+
+### Computer Science (Incomplete)
+- Murray State College (2001-2002, 2013-2014)
+- GPA: 3.0
 
 ## Certifications
-- **Microsoft Certified:** Azure Data Science Associate
-- **Microsoft Certified:** Azure AI Engineer Associate
-- **Coursera Google:** Advanced Data Analytics
-- **Coursera Google:** Data Analytics Professional Certificate
-- **Coursera IBM:** Applied AI Professional Certificate
-- **Coursera IBM:** Data Analyst Professional Certificate
-- **Pearson Vue:** A+ Computer Hardware
 
-## Links
-- **Credly:** [Credly Profile](https://www.credly.com/users/james-greenwood.b14e2a77)
-- **Google Cloud Skills:** [Google Cloud Skills Profile](https://www.cloudskillsboost.google/public_profiles/089cc308-90e6-4d09-bc96-99539a86a021)
-- **Microsoft Learn:** MCID:995817691
+- Microsoft Certified: Azure Data Science Associate (Dec 2023)
+- Microsoft Certified: Azure AI Engineer Associate (Dec 2023)
+- Microsoft Certified: Azure AI Fundamentals (Oct 2023)
+- Coursera Google: Advanced Data Analytics (Oct 2023)
+- Coursera Google: Data Analytics Professional Certificate (Sep 2023)
+- Coursera IBM: Applied AI Professional Certificate (Aug 2023)
+- Coursera IBM: Data Analyst Professional Certificate (Aug 2023)
+- Pearson Vue: A+ Computer Hardware
+
+## Links to Digital Badges & Profiles
+
+- [Credly](#)
+- [Google Cloud Skills](#)
+- [Microsoft Learn MCID:995817691](#)
+
