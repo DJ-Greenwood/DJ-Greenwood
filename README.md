@@ -43,7 +43,7 @@ Project orign: Vincent Granville, Ph.D. | [www.MLTechniques.com](https://www.MLT
 Technologies: Transformers, Python, Flask, HTML/CSS
 - **GitHub Repository:** [LLM Development](http://github.com/DJ-Greenwood/LLM)
 
-## Work inprogress
+### Work In Progress
 ### Project 3: AI-Based Image Generation
 - **Description:** Built an AI-based application to generate images and create compelling stories around them. Utilized GANs for image generation and NLP models for story creation.
 - **Technologies:** Python, TensorFlow, GANs, NLP
