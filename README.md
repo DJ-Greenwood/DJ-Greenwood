@@ -2,7 +2,6 @@
 
 ## Contact Information
 - **Email:** Denzil.James.Greenwood@outlook.com
-- **Phone:** 580-276-6038
 - **Location:** Marietta, Oklahoma
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/denzil-james-greenwood/)
 
@@ -35,19 +34,6 @@ Analytically driven and results-oriented Data Analyst with a comprehensive backg
 - **Description:** Developed a comprehensive analysis of home loan denials using Python and various data analysis techniques. Implemented a data pipeline for cleaning and processing the data, performed exploratory data analysis, and built predictive models to identify key factors leading to loan denials.
 - **Technologies:** Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
 - **GitHub Repository:** [Home Loan Denial Analysis](https://github.com/DJ-Greenwood/home-loan-denial-analysis)
-
-### Work In Progress
-### Project 2: Practical AI & Machine Learning Projects and Datasets
-- **Description:** Developing a language model (LLM) to enhance natural language understanding and generation capabilities. The project involves training the model on diverse datasets, fine-tuning for specific tasks, and deploying it for real-time interactions. Additionally, integrated backend systems for efficient data retrieval and seamless user interactions.
-Project orign: Vincent Granville, Ph.D. | [www.MLTechniques.com](https://www.MLTechniques.com) | Version 4.0, March 2024, Practical AI & Machine Learning Projects and Datasets
-Technologies: Transformers, Python, Flask, HTML/CSS
-- **GitHub Repository:** [LLM Development](http://github.com/DJ-Greenwood/LLM)
-
-### Work In Progress
-### Project 3: AI-Based Image Generation
-- **Description:** Built an AI-based application to generate images and create compelling stories around them. Utilized GANs for image generation and NLP models for story creation.
-- **Technologies:** Python, TensorFlow, GANs, NLP
-- **GitHub Repository:** [AI-Based Image Generation](https://github.com/DJ-Greenwood/ai-image-generation)
 
 ## Selected Professional Experience
 
@@ -86,7 +72,7 @@ Technologies: Transformers, Python, Flask, HTML/CSS
 
 ## Links to Digital Badges & Profiles
 
-- [Credly](#)
-- [Google Cloud Skills](#)
-- [Microsoft Learn MCID:995817691](#)
+- [Credly](https://www.credly.com/users/denzil-james-greenwood)
+- [Google Cloud Skills](https://www.cloudskillsboost.google/public_profiles/089cc308-90e6-4d09-bc96-99539a86a021)
+- [Microsoft Learn MCID:995817691](https://learn.microsoft.com/en-us/users/jamesgreenwood-2117/credentials?source=docs&tab=credentials-tab)
 
