@@ -2,7 +2,6 @@
 
 ## Contact Information
 - **Email:** Denzil.James.Greenwood@outlook.com
-- **Location:** Marietta, Oklahoma
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/denzil-james-greenwood/)
 
 ## Professional Summary
