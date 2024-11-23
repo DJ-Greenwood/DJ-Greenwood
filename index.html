@@ -164,7 +164,7 @@
                                 <li><i class="fas fa-code"></i> Proficient in Python (NumPy, Pandas, Scikit-Learn)</li>
                                 <li><i class="fas fa-chart-line"></i> Experienced with R programming</li>
                                 <li><i class="fas fa-chart-bar"></i> Data Visualization (Matplotlib, Seaborn, Plotly, Altair, PyGWalker)</li>
-                                <li><i class="fas fa-database"></i> Skilled in SQL and Data Mining</li>
+                                <li><i class="fas fa-database"></i> Skilled in SQL, Neo4j, MongoDB and Data Mining</li>
                                 <li><i class="fas fa-robot"></i> Expertise in Machine Learning Algorithms</li>
                             </ul>
                         </div>
@@ -230,38 +230,55 @@
                     <div class="card mb-3">
                         <div class="card-body">
                             <h3>Machine Learning Model for Predictive Analytics</h3>
-                            <img src="https://DJ-Greenwood.github.io/machine_learning_model_screenshot.png" alt="Machine Learning Model Screenshot" class="img-fluid mb-3"> <!-- Added project screenshot -->
+                            <img src="https://DJ-Greenwood.github.io/home_loan.png" alt="Machine Learning Model Screenshot" class="img-fluid mb-3"> <!-- Added project screenshot -->
                             <p>Used Python to create and evaluate machine learning models for predicting loan defaults. Presented visualizations that explained feature importance and model performance.</p>
                             <div class="code-container">
-                                <h5>Code Sample:</h5>
-                                <pre><code>import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score
+                                <h5>Partial code Sample:</h5>
+                                <pre><code># Select features for the model
+selected_features = [
+    'loan_percent_income', 
+    'previous_loan_defaults_on_file', 
+    'loan_int_rate', 
+    'loan_amnt',
+    'person_income',
+    'credit_score',
+    'age_emp_ratio'
+]
+X = loan_data[selected_features]
+y = loan_data['loan_status']
 
-# Load dataset
-data = pd.read_csv('loan_data.csv')
+# Train-test split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
 
-# Data Preprocessing
-X = data.drop('default', axis=1)
-y = data['default']
+# Scale numerical features
+scaler = StandardScaler()
+X_train_scaled = scaler.fit_transform(X_train)
+X_test_scaled = scaler.transform(X_test)
 
-# Split data
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+# Random Forest Model
+rf_model = RandomForestClassifier(random_state=42)
 
-# Model Training
-model = RandomForestClassifier(n_estimators=100, random_state=42)
-model.fit(X_train, y_train)
+# Hyperparameter tuning with GridSearchCV
+param_grid = {
+    'n_estimators': [100, 200, 300],
+    'max_depth': [10, 20, 30],
+    'min_samples_split': [5, 10, 20],
+    'max_features': ['sqrt', 'log2']
+}
 
-# Predictions
-y_pred = model.predict(X_test)
+grid_search = GridSearchCV(estimator=rf_model, param_grid=param_grid, cv=5, scoring='accuracy', verbose=1, n_jobs=-1)
+grid_search.fit(X_train_scaled, y_train)
 
-# Model Evaluation
-accuracy = accuracy_score(y_test, y_pred)
-print(f'Accuracy: {accuracy:.2f}')
+# Best model evaluation
+best_model = grid_search.best_estimator_
+y_pred = best_model.predict(X_test_scaled)
+
+print("Best Hyperparameters:", grid_search.best_params_)
+print("Accuracy on Test Set:", accuracy_score(y_test, y_pred))
+print("\nClassification Report:\n", classification_report(y_test, y_pred))
                                 </code></pre>
                             </div>
-                            <p><strong>Results:</strong> Achieved 85% accuracy in predicting loan defaults, demonstrating effectiveness of the RandomForest model for classification tasks.</p>
+                            <p><strong>Results:</strong> Achieved 92% accuracy in predicting loan defaults, demonstrating effectiveness of the RandomForest model for classification tasks.</p>
                         </div>
                     </div>
                 </div>
